@@ -1,0 +1,56 @@
+html{
+    background: url("./asset/bg2.jpeg");
+    background-size: cover;
+}
+.logo{
+    width: 441px;
+    height: auto;
+}
+
+.negara{
+    display: flex;
+    text-decoration: none;
+    font-size: 32px;
+    float: right;
+    margin-right: 50px;
+}
+
+.negara li{
+    padding: 20px;
+    margin-top: -20px;
+}
+a:link {
+    color:white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+a:hover {
+    color:red;
+    background-color: transparent;
+    text-decoration: none;
+}
+ 
+h2{
+    color: aliceblue;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+p{
+    color: aliceblue;
+}
+.portugis{
+    width: 500px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
